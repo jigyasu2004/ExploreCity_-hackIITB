@@ -5,7 +5,7 @@ ExploreCity
 
 ## Description
 
-ExploreCity is a mobile application designed to enhance the tourism and city exploration experience. Leveraging HERE Location Services and Mobile SDKs, the app provides a comprehensive platform for tourists to discover a city's rich history, cultural landmarks, and exciting attractions through guided tours and interactive maps..
+ExploreCity is an advanced mobile application designed for tourists seeking an immersive and technologically enriched exploration of cities. Utilizing HERE Location Services and Mobile SDKs, the app combines cutting-edge geospatial technology with rich historical content to offer guided tours, detailed historical information, and interactive maps, providing users with a seamless and informative city exploration experience.
 
 ## Instructions to Run the Project
 
