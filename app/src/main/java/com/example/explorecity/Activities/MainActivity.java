@@ -1,8 +1,10 @@
-package com.example.explorecity;
+package com.example.explorecity.Activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.explorecity.R;
 
 public class MainActivity extends AppCompatActivity {
 
