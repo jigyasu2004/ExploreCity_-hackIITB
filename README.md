@@ -1,4 +1,3 @@
-# ExploreCity_-hackIITB
 # Project Name
 
 ## "ExploreCity"
