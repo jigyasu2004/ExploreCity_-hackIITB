@@ -35,4 +35,4 @@ To run the ExploreCity project locally, follow these steps:
 
 ## Special considerations
 
-This app/prototype is not completed yet due to our End Semester Examination. I requested you to extend the date of final submission of prototype. I Ensure that I will complete the project as best tourist app till the final submission. 
+This app/prototype is not completed yet due to our End Semester Examination. I requested you to extend the date of final submission of prototype.
